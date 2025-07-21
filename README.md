@@ -1,2 +1,2 @@
-# ATTD-GUI
-android A  rm64 Timeless Travel Debugger
+# ATTD-GUI Release Page
+android Arm64 Timeless Travel Debugger
